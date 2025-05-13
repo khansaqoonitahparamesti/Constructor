@@ -11,5 +11,7 @@ mahasiswa :: mahasiswa (){
 
 };
 
-
-
+int main (){
+    mahasiswa mhs;
+    return 0;
+};
